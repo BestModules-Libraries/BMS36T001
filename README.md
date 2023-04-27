@@ -8,7 +8,7 @@ BMS36T001
 
 The Best Modules BMS36T001 is a shield board for IR proximity sensing with motor driver output function, which uses the UART communication method. This document provides the description of the BMS36T001 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of driving the motor forward when the module is in the sensing status and driving the motor to standby when the module is not in the sensing status.
 
-This library can be installed via the Arduino Library manager. Search for **BMS36T001 **. 
+This library can be installed via the Arduino Library manager. Search for **BMS36T001**. 
 
 Repository Contents
 -------------------
